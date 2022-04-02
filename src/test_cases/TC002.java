@@ -3,9 +3,11 @@ package test_cases;
 public class TC002 {
     // TEST CASE 2
 
-    // WRITTING SMOTE TESTS
+    // WRITING SMOTE TESTS
 
-    //creating report
+    // creating report
+
+    // screenshot in failure
 
 
 }
